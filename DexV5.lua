@@ -1,19 +1,4 @@
 --[[
-d8888b. d88888b db    db                                         
-88  `8D 88'     `8b  d8'                                         
-88   88 88ooooo  `8bd8'                                          
-88   88 88~~~~~  .dPYb.                                          
-88  .8D 88.     .8P  Y8.                                         
-Y8888D' Y88888P YP    YP                                         
-                                                                 
-                                                                 
-d88888b db    db d8888b. db       .d88b.  d8888b. d88888b d8888b.
-88'     `8b  d8' 88  `8D 88      .8P  Y8. 88  `8D 88'     88  `8D
-88ooooo  `8bd8'  88oodD' 88      88    88 88oobY' 88ooooo 88oobY'
-88~~~~~  .dPYb.  88~~~   88      88    88 88`8b   88~~~~~ 88`8b  
-88.     .8P  Y8. 88      88booo. `8b  d8' 88 `88. 88.     88 `88.
-Y88888P YP    YP 88      Y88888P  `Y88P'  88   YD Y88888P 88   YD
-
   github: https://github.com/LorekeeperZinnia/Dex
   
   New Dex
